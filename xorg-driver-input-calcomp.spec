@@ -1,5 +1,5 @@
 Summary:	X.org input driver for Calcomp devices
-Summary(pl):	Sterownik wej∂ciowy X.org dla urz±dzeÒ Calcomp
+Summary(pl.UTF-8):   Sterownik wej≈õciowy X.org dla urzƒÖdze≈Ñ Calcomp
 Name:		xorg-driver-input-calcomp
 Version:	1.1.0
 Release:	0.1
@@ -23,9 +23,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 X.org input driver for Calcomp devices. This driver supports the
 Calcomp binary format used by the Drawing Board II and III series.
 
-%description -l pl
-Sterownik wej∂ciowy X.org dla urz±dzeÒ Calcomp. Ten sterownik
-obs≥uguje format binarny Calcomp uøywany przez urz±dzenia z serii
+%description -l pl.UTF-8
+Sterownik wej≈õciowy X.org dla urzƒÖdze≈Ñ Calcomp. Ten sterownik
+obs≈Çuguje format binarny Calcomp u≈ºywany przez urzƒÖdzenia z serii
 Drawing Board II i III.
 
 %prep
