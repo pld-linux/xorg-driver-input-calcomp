@@ -1,5 +1,5 @@
 Summary:	X.org input driver for Calcomp devices
-Summary(pl.UTF-8):   Sterownik wejściowy X.org dla urządzeń Calcomp
+Summary(pl.UTF-8):	Sterownik wejściowy X.org dla urządzeń Calcomp
 Name:		xorg-driver-input-calcomp
 Version:	1.1.0
 Release:	0.1
