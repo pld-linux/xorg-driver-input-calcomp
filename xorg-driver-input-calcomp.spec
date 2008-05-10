@@ -1,12 +1,12 @@
 Summary:	X.org input driver for Calcomp devices
 Summary(pl.UTF-8):	Sterownik wejściowy X.org dla urządzeń Calcomp
 Name:		xorg-driver-input-calcomp
-Version:	1.1.1
+Version:	1.1.2
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/driver/xf86-input-calcomp-%{version}.tar.bz2
-# Source0-md5:	689099e2ade8a8c9f68f82fdf569b3ad
+# Source0-md5:	ebc9a64dc72ae3015c16011bbd2d3557
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
